@@ -1,0 +1,7 @@
+sudo apt-get install r-base
+
+sudo apt install gdebi
+
+sudo gdebi ~/Downloads/rstudio-2023.03.0-386-amd64.deb
+sudo gdebi ~/Downloads/code_1.76.2-1678817801_amd64.deb
+
