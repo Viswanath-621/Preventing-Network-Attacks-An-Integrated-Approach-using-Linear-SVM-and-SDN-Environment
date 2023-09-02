@@ -3,3 +3,4 @@ Mini Project
 
  
 R studio INstallation : https://www.geeksforgeeks.org/how-to-install-r-studio-on-windows-and-linux/
+Virtual Studio Installation: https://www.tecmint.com/install-visual-studio-code-on-linux/
